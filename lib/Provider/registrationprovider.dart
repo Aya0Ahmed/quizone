@@ -4,6 +4,8 @@ import 'package:quiz/Services/Registrationservices.dart';
 
 class registrationprovider extends ChangeNotifier
 {
+  ///
+  /// ////
   late String username;
   late String email;
   late String password;
